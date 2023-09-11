@@ -1,0 +1,7 @@
+To be fixed:
+- Fix randomiser on suburb populations
+	:So far, the randomiser isn't working for only the suburb populations.
+
+To be made:
+- Add functionality where user can select disaster chance percentage.
+- Incorporate more pointers.
